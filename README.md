@@ -25,6 +25,14 @@ For a real world example app, see https://github.com/kewlbear/Inssagram.
 .package(url: "https://github.com/kewlbear/nodejs-ios.git", .branch("main")),
 ```
 
+### CocoPods install
+
+```
+pod 'NodeMobile', :git => 'https://github.com/milika/nodejs-ios.git'
+```
+
+
+
 ## Credits
 
 This package is based on the excellent work of https://code.janeasystems.com/nodejs-mobile.
