@@ -1,6 +1,7 @@
 # nodejs-ios
 
 Swift package to enable use of Node.js on iOS
+and CocoaPods wrapper for it
 
 ## Usage
 
