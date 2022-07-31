@@ -22,7 +22,7 @@ For a real world example app, see https://github.com/kewlbear/Inssagram.
 ### Swift Package Manager
 
 ```
-.package(url: "https://github.com/kewlbear/nodejs-ios.git", .branch("main")),
+.package(url: "https://github.com/milika/nodejs-ios.git", .branch("main")),
 ```
 
 ### CocoPods install
