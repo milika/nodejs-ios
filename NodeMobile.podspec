@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
 
   s.source           = { :http => "https://github.com/milika/nodejs-ios/archive/refs/tags/v0.0.4.zip" }
 
-  s.vendored_frameworks = "nodejs-ios-0.0.4/NodeMobile.xcframework"
+  s.vendored_frameworks = "NodeMobile.xcframework"
 
 end
