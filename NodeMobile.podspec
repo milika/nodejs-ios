@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source           = { :http => "https://github.com/milika/nodejs-ios/releases/download/v0.0.4/NodeMobile.xcframework.zip }
+  s.source           = { :http => "https://github.com/milika/nodejs-ios/archive/refs/tags/v0.0.4.zip" }
 
-  s.vendored_frameworks = "NodeMobile.xcframework"
+  s.vendored_frameworks = "**/NodeMobile.xcframework"
 
 end
